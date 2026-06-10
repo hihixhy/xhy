@@ -9,7 +9,7 @@
 
 **Backend**：Node.js、MySQL、Express、Java
 
-**Tools**：Git/GitHub、Axure
+**Tools**：Git、Axure
 
 **Other**：
 
