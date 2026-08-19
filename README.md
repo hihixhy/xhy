@@ -4,7 +4,7 @@
 
 ---
 
-### 🛠️ 技术栈
+### 技术栈
 **Frontend**：Vue2/Vue3、JavaScript、HTML5/CSS3、Element Plus、Vite、Webpack、axios
 
 **Backend**：Node.js、MySQL、Express、Java
@@ -15,13 +15,13 @@
 
 ---
 
-### 📌 项目作品
-- 💊 药管家-药品提醒系统：Vue3 + Node.js + MySQL 全栈项目
-- 📁 日常练习demo、前端手写题、面试基础源码持续更新
+### 项目作品
+- Carevial（药品管理系统）：Vue3 + Node.js + MySQL 全栈项目，开发中
+- 日常练习demo、前端手写题、面试基础源码持续更新
 
 ---
 
-### 📚 学习方向
+### 学习方向
 - 深耕Vue源码、浏览器原理、前端性能优化
 - 夯实JS底层、计算机网络、工程化部署能力
 - 积累实战项目，冲刺前端开发岗位
@@ -31,4 +31,4 @@
 
 ### 📫 联系我
 - 主页：https://github.com/hihixhy
-- 状态：大三在读｜前端求职中｜持续学习中
+- 状态：大四在读｜前端求职中｜持续学习中
